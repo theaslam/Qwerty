@@ -1,13 +1,12 @@
 body{
     background-color: #0f121f;
-    background-image: url(/static/space.jpg);
+    background-image: url(/static/beat.jpg);
     background-repeat-y: no-repeat;
-    color: #fff;
-
+    color:blanchedalmond;
 }
 
 body*{
-    font-family:Georgia;
+    font-family:Ubuntu;
 }
 
 h1, h2, h3, h4, h5{
@@ -15,6 +14,6 @@ h1, h2, h3, h4, h5{
     margin: 0;
 }
 a,a:hover, a:visited{
-    color: #fff;
+    color:blanchedalmond;
     text-decoration: none;
 }
