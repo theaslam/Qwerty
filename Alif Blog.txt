@@ -1,0 +1,19 @@
+My New project
+Instruction 
+pipenv --python 3.7
+pipenv install django==2.2.2
+django-admin startproject Alif
+python manage.py runserver
+
+for Github
+git add .
+git commit -am "your commit"
+git push origin master
+
+Superuser 
+theaslam
+qwerty123
+
+
+
+
